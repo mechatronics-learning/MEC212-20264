@@ -1,2 +1,2 @@
-# MEC212-20264
-Teaching and learning materials for subject Introduction to Computer Programming.
+#Introduction
+Welcome to the Introduction to Computer Programming repository. This repository contains Python programming materials, examples, and practical exercises designed to help students understand fundamental programming concepts and apply them to engineering problems.
