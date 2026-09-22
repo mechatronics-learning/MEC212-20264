@@ -1,6 +1,9 @@
-##**Introduction**
+## Introduction
 
 Welcome to the Introduction to Computer Programming repository. This repository contains Python programming materials, examples, and practical exercises designed to help students understand fundamental programming concepts and apply them to engineering problems.
+
+📚 [Lecture Notes](https://drive.google.com/drive/folders/1PHo6189aDyuw8m2peXQs_vvxYyuN5rtI?usp=sharing)
+
 
 ##**Syllabus Content**
 1. Introduction To Computer Program
