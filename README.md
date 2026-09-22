@@ -2,6 +2,12 @@
 
 Welcome to the Introduction to Computer Programming repository. This repository contains Python programming materials, examples, and practical exercises designed to help students understand fundamental programming concepts and apply them to engineering problems.
 
+## 📚 MEC212 Lecture Notes
+
+Access all MEC212 lecture notes here:
+
+[📂 Open MEC212 Notes – Google Drive](https://drive.google.com/drive/folders/1qu2rodKcpJzrdpXK0L01iXTpl1LA5lW-?usp=sharing)
+
 ##**Syllabus Content**
 1. Introduction To Computer Program
 • Introduction to programming
